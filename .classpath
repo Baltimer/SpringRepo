@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Spring-master/hello/src/main/java"/>
+	<classpathentry kind="src" path="Spring-master/hello/src/test/java"/>
+	<classpathentry kind="src" path="Spring-master/pratica_setmana_1.zip_expanded/setmana_1_practica/src/main/java"/>
+	<classpathentry kind="src" path="Spring-master/pratica_setmana_1.zip_expanded/setmana_1_practica/src/test/java"/>
+	<classpathentry kind="lib" path="Spring-master/hello/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="lib" path="Spring-master/pratica_setmana_1.zip_expanded/setmana_1_practica/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
